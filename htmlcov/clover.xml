@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1770396485665" clover="3.2.0">
-  <project timestamp="1770396485665" name="All files">
+<coverage generated="1770746130663" clover="3.2.0">
+  <project timestamp="1770746130663" name="All files">
     <metrics statements="148" coveredstatements="122" conditionals="59" coveredconditionals="43" methods="18" coveredmethods="14" elements="225" coveredelements="179" complexity="0" loc="148" ncloc="148" packages="1" files="1" classes="1"/>
     <file name="server.js" path="/home/runner/work/constellation-backend/constellation-backend/crdt_server/app/server.js">
       <metrics statements="148" coveredstatements="122" conditionals="59" coveredconditionals="43" methods="18" coveredmethods="14"/>
